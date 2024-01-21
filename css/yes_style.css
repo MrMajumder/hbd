@@ -10,7 +10,7 @@ body {
     font-family: 'Nunito';
     font-size: 50px;
     font-weight: bold;
-    color: white;
+    color: rgb(171, 7, 70);
     text-align: center;
     margin-top: 20px;
     margin-bottom: 0px;
@@ -20,4 +20,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.body_text {
+    font-family: 'Nunito';
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
 }
